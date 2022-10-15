@@ -529,7 +529,7 @@ def Help():
 
 window = Tk()
 window.title("Snake game")
-icon = PhotoImage(file='C:\\Users\\Emi\\Desktop\\Programowanie\\Python\\obrazki\\snake.png')
+icon = PhotoImage(file='Resources\\snake.png')
 window.iconphoto(True,icon)
 window.resizable(False, False)   #Tłumaczenie - (resizable) "możliwość zmiany rozmiaru";   #Wyłączymy możliwość zmiany rozmiaru naszego okna
 
